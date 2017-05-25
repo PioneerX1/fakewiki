@@ -75,6 +75,10 @@ h3 {
   font-stretch: extra-expanded;
 }
 
+#wikipic {
+  width: : 100px;
+  height: 100px;
+}
 
 <!--Greenback border color will be: #cef2e0-->
 <!--Greenback header border will be #cef2e0-->
