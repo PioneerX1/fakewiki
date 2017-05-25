@@ -19,6 +19,29 @@
   background-size: 100%;
 }
 
+#didyouknow {
+  background-color: #cef2e0;
+  border-width: 1px;
+  border-color: #a3bfb1;
+  border-style: solid;
+  background-size: 100%;
+}
+
+#news {
+  background-color: #cedff2;
+  border-width: 1px;
+  border-color: #cedff2;
+  border-style: solid;
+  background-size: 100%;
+}
+
+#onthisday {
+  background-color: #cedff2;
+  border-width: 1px;
+  border-color: #cedff2;
+  border-style: solid;
+  background-size: 100%;
+}
 #coin {
   float: left;
   width: 200px;
