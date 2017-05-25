@@ -1,0 +1,60 @@
+.greenback {
+  background-color: #f5fffa;
+}
+
+.salmonback {
+  background-color: #f5faff;
+}
+
+.heading {
+  border: black;
+  border-width: medium;
+}
+
+#article {
+  background-color: #cef2e0;
+  border-width: 1px;
+  border-color: #a3bfb1;
+  border-style: solid;
+  background-size: 100%;
+}
+
+#coin {
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+
+#duterte {
+  float: right;
+  width: 100px;
+  height: 125px;
+}
+
+#zenobius {
+  float: right;
+  width: 125px;
+  height: 110px;
+}
+
+#pinafore {
+  float: right;
+  width: 175px;
+  height: 110px;
+}
+body {
+  background-color: #f6f6f6;
+  font-family: sans-serif;
+  }
+h3 {
+  margin: 3px;
+  font-size: 120%;
+  font-stretch: extra-expanded;
+}
+
+
+<!--Greenback border color will be: #cef2e0-->
+<!--Greenback header border will be #cef2e0-->
+
+<!--Salmonback border color will be: #cedff2-->
+<!--Salmonback header border will be #a3b0bf-->
